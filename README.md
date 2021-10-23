@@ -3,7 +3,7 @@ Node JS module to fetch multiple urls and return response as promise object.
 
 ## Installation
 ```console
-npm install @riyasali/node-fetch-multiple-urls
+npm install node-fetch-multiple-urls
 ```
 ## Run tests
 ```

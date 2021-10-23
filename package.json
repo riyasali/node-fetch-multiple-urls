@@ -1,5 +1,5 @@
 {
-  "name": "@riyasali/node-fetch-multiple-urls",
+  "name": "node-fetch-multiple-urls",
   "version": "1.0.0",
   "description": "node utility to fetch multiple urls and combine json result",
   "main": "index.js",
@@ -11,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/riyasali/node-fetch-multiple-urls.git"
   },
-  "author": "Riyasali",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/riyasali/node-fetch-multiple-urls/issues"
